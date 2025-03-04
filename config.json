@@ -1,5 +1,5 @@
  {
-  "lp": 0.5,
-  "lock": 0.5,
+  "lp": 0.2,
+  "lock": 0.8,
   "min_liq_usdc_target": 1
 }
